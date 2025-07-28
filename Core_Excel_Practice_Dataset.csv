@@ -1,0 +1,16 @@
+Order ID,Customer Name,Region,Product,Category,Quantity,Unit Price,Total Price,Value of Unit Price
+1001,Anil,East,Shirt,Clothing,2,800,1600,Low
+1002,Rekha,North,Bag,Accessories,1,1500,1500,High
+1003,Rahul,West,Shoes,Footwear,1,1200,1200,High
+1004,Anil,East,Watch,Accessories,1,2000,2000,High
+1005,Rekha,North,Shirt,Clothing,3,800,2400,Low
+1006,Rahul,West,Bag,Accessories,2,1500,3000,High
+,,,,,,,,
+,,,,,Sum of Total Price =,,11700,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
